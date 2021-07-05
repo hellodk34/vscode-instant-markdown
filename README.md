@@ -1,3 +1,14 @@
+# vscode-instant-markdown hellodk edited
+
+add div `marginmycolor`, set background-color `#f2f2f2` and set article background-color `white`
+
+![20210705100326.png](https://cdn.jsdelivr.net/gh/hellodk34/image@main/img/20210705100326.png)
+> after edited, the main page is like this
+
+It's based on [dbankier/vscode-instant-markdown](https://github.com/dbankier/vscode-instant-markdown)
+
+Sincere thanks.
+
 # vscode-instant-markdown
 
 > Simply, edit markdown documents in vscode and instantly preview it in your browser.
